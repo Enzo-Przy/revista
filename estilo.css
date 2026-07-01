@@ -1,0 +1,20 @@
+body{
+    background-color:#6392cb;
+    color:black;
+}
+.cabecalho{
+ background-image: url(./img/Imagem1.png);
+ background-repeat: no-repeat;
+ background-size: contain;
+ display: grid;
+ grid-template-columns: 50% 50%;
+
+}
+
+.cabecalho img{
+    text-align:center;
+    width: 40%;
+}
+.cabecalho h1{
+    margin-left: 30%;
+}
