@@ -18,3 +18,21 @@ body{
 .cabecalho h1{
     margin-left: 30%;
 }
+
+.conteudo01{
+    display: flex;
+    padding: 32px;
+    justify-content: center;
+    align-items: center;
+    background-color: #242038;
+
+}
+
+.conteudo01-img{
+    width; 40%;
+}
+
+.conteudo01-direito{
+    background-color: #0e4758;
+    
+}
